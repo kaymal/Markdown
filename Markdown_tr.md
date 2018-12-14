@@ -94,6 +94,8 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 [Referans 1][1]
 [Referans 2][2]
 
+xxxxxxxxxxxxxx
+
 [1]: https://github.com/kaymal
 [2]: https://github.com/
 ```
