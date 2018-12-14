@@ -18,7 +18,6 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Resim](#Resim)
 
-[Referans/Kaynakça](#Referans)
 
 ### Başlık
 
@@ -29,6 +28,7 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 # Başlık
 ## Alt Başlık
+
 
 ### Vurgulama
 
@@ -48,8 +48,7 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 ### Maddeleme, Sıralama
 
-Maddeleme
----------
+*Maddeleme:*
 
 ```
 - Maddde 1
@@ -68,8 +67,8 @@ Maddeleme
     - Fıkra i
     - Fıkra ii
 
-Sıralama
---------
+*Sıralama:*
+
 ```
 1. Birinci
 2. İkinci
@@ -103,10 +102,7 @@ Sıralama
 
 [Bağlantı 2][2]
 
-YazılarYazılar
-YazılarYazılar
-YazılarYazılar
-YazılarYazılar
+xxxxxxxxxxxxxxx
 
 [1]: https://github.com/kaymal
 [2]: https://github.com/
