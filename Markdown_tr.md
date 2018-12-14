@@ -35,16 +35,31 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 ```
 **kalın** __kalın__ deneme
 
-*italik* _italik_ 
+*italik* _italik_
+
+**_kalın ve italik_**
 ```
 
-**kalın** __kalın__ deneme
+**kalın** __kalın__
 
-*italik* _italik_ 
+*italik* _italik_
+
+**_kalın ve italik_**
 
 ### Maddeleme, Sıralama
 
-Maddeleme:
+Maddeleme
+---------
+
+```
+- Maddde 1
+- Madde 2
+- Madde 3
+  * Alt madde a
+  * Alt madde b
+    - Fıkra i
+    - Fıkra ii
+```
 - Maddde 1
 - Madde 2
 - Madde 3
@@ -53,19 +68,36 @@ Maddeleme:
     - Fıkra i
     - Fıkra ii
 
- 
-Sıralı madde:
+Sıralama
+--------
+```
+1. Birinci
+2. İkinci
+```
 1. Birinci
 2. İkinci
 
 
 ### Bağlantı
 
-#### Dış Bağlantı
+````
+[Bağlantı](https://github.com/kaymal)
 
-#### Sayfa İçine Bağlantı
+[Başlıklı Bağlantı](https://github.com/kaymal "GitHub Sayfam")
+````
+
+[Bağlantı](https://github.com/kaymal)
+
+[Başlıklı Bağlantı](https://github.com/kaymal "GitHub Sayfam")
+
 
 ### Tablo
+
+|   | Fiyat   | Adet  |
+| --|:-------:| -----:|
+| A | 1000TL  | 1     |
+| B | 100TL   | 10    |
+| C | 1TL     | 1000  |
 
 
 ### Resim
@@ -73,7 +105,40 @@ Sıralı madde:
 
 ### Referans/Kaynakça
 
+```
+[Referans 1][1]
+[Referans 2][2]
 
+[1]: https://github.com/kaymal
+[2]: https://github.com/
+```
+
+[Referans 1][1]
+[Referans 2][2]
+
+YazılarYazılar
+YazılarYazılar
+YazılarYazılar
+YazılarYazılar
+
+[1]: https://github.com/kaymal
+[2]: https://github.com/
+
+
+```
+Yazılar [^1] yazılar.
+
+[^1]: Referans.
+```
+
+Yazılar [^1] yazılar.
+
+YazılarYazılar
+YazılarYazılar
+YazılarYazılar
+YazılarYazılar
+
+[^1]: Referans.
 -----
 
 
