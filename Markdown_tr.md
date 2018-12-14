@@ -91,6 +91,28 @@ Sıralama
 [Başlıklı Bağlantı](https://github.com/kaymal "GitHub Sayfam")
 
 
+```
+[Referans 1][1]
+[Referans 2][2]
+
+[1]: https://github.com/kaymal
+[2]: https://github.com/
+```
+
+[Bağlantı 1][1]
+
+[Bağlantı 2][2]
+
+YazılarYazılar
+YazılarYazılar
+YazılarYazılar
+YazılarYazılar
+
+[1]: https://github.com/kaymal
+[2]: https://github.com/
+
+
+
 ### Tablo
 
 |   | Fiyat   | Adet  |
@@ -101,44 +123,3 @@ Sıralama
 
 
 ### Resim
-
-
-### Referans/Kaynakça
-
-```
-[Referans 1][1]
-[Referans 2][2]
-
-[1]: https://github.com/kaymal
-[2]: https://github.com/
-```
-
-[Referans 1][1]
-[Referans 2][2]
-
-YazılarYazılar
-YazılarYazılar
-YazılarYazılar
-YazılarYazılar
-
-[1]: https://github.com/kaymal
-[2]: https://github.com/
-
-
-```
-Yazılar [^1] yazılar.
-
-[^1]: Referans.
-```
-
-Yazılar [^1] yazılar.
-
-YazılarYazılar
-YazılarYazılar
-YazılarYazılar
-YazılarYazılar
-
-[^1]: Referans.
------
-
-
