@@ -123,7 +123,7 @@ xxxxxxxxxxxxxxx
 ### Resim/Görsel
 ```
 Resim: 
-![Resim Yazisi][resim]
+![alt yazı][resim]
 
 [resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
 ```
