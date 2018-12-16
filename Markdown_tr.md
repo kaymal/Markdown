@@ -120,4 +120,10 @@ xxxxxxxxxxxxxxx
 | C | 1TL     | 1000  |
 
 
-### Resim
+### Resim/Görsel
+```
+Resim: 
+![Resim Yazisi][resim]
+
+[resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
+
