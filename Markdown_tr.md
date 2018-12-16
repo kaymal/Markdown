@@ -126,4 +126,10 @@ Resim:
 ![Resim Yazisi][resim]
 
 [resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
+```
 
+
+Resim: 
+![Resim Yazisi][resim]
+
+[resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
