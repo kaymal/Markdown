@@ -125,11 +125,11 @@ xxxxxxxxxxxxxxx
 Resim: 
 ![alt yazı][resim]
 
-[resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
+[resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png"Resim Başlığı"
 ```
 
 
 Resim: 
-![alt yazı][resim]
+![alt yazı][resim]{:height="36px" width="36px"}
 
 [resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
