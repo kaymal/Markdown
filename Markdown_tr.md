@@ -1,4 +1,4 @@
-# Markdown Temelleleri 
+# Markdown Kullanımı 
 
 ## Markdown Nedir, Ne Amaçla Kullanılır?
 
