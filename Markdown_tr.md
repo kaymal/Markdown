@@ -18,6 +18,8 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Resim](#Resim)
 
+[Kod](#Kod)
+
 
 ### Başlık
 
@@ -133,3 +135,18 @@ Resim:
 ![alt yazı][resim]
 
 [resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
+
+### Kod
+
+#### Yazı İçinde Kod
+```
+asdf asdf adf `kod` asdf asdf.
+```
+
+asdf asdf adf `kod` asdf asdf.
+
+####  Kod Bloğu
+
+```
+asdf
+```
