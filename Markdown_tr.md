@@ -81,11 +81,11 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 ### Bağlantı
 
-````
+```
 [Bağlantı](https://github.com/kaymal)
 
 [Başlıklı Bağlantı](https://github.com/kaymal "GitHub Sayfam")
-````
+```
 
 [Bağlantı](https://github.com/kaymal)
 
