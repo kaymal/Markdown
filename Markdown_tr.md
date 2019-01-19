@@ -20,6 +20,8 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Kod](#Kod)
 
+[Alıntı](#Alıntı)
+
 
 ### Başlık
 
@@ -145,8 +147,22 @@ asdf asdf adf `kod` asdf asdf.
 
 asdf asdf adf `kod` asdf asdf.
 
-####  Kod Bloğu
+#### Kod Bloğu
 
 ```
 asdf
 ```
+
+### Alıntı
+```
+> Alıntı 1
+
+>> Alıntı 2
+
+>>> Alıntı 3
+```
+> Alıntı 1
+
+>> Alıntı 2
+
+>>> Alıntı 3
