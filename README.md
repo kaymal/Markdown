@@ -1,3 +1,3 @@
 # Markdown
 
-Markdown kullanım rehberi.
+Markdown kullanım rehberi (Türkçe)ç
