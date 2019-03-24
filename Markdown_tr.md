@@ -1,4 +1,4 @@
-# Markdown Kullanımı 
+# Markdown Kullanımı Türkçe
 
 ## Markdown Nedir, Ne Amaçla Kullanılır?
 
