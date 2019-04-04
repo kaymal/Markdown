@@ -10,7 +10,7 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Vurgulama](#Vurgulama)
 
-[Maddeleme, Sıralama](#Maddeleme)
+[Maddeleme ve Sıralama](#Maddeleme-ve-Sıralama)
 
 [Bağlantı](#Bağlantı)
 
@@ -50,7 +50,7 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 **_kalın ve italik_**
 
-### Maddeleme, Sıralama
+### Maddeleme ve Sıralama
 
 *Maddeleme:*
 
