@@ -37,7 +37,7 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 ### Vurgulama
 
 ```
-**kalın** __kalın__ deneme
+**kalın** __kalın__
 
 *italik* _italik_
 
@@ -104,9 +104,9 @@ xxxxxxxxxxxxxx
 [2]: https://github.com/
 ```
 
-[Bağlantı 1][1]
+[Referans 1][1]
 
-[Bağlantı 2][2]
+[Referans 2][2]
 
 xxxxxxxxxxxxxxx
 
