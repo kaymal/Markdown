@@ -98,7 +98,10 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 [Referans 1][1]
 [Referans 2][2]
 
-xxxxxxxxxxxxxx
+YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
+YazıYazıYazıYazıYazıYazıYazıYazı.
+
+Referanslar sayfanın en sonuna yazılabilir. Sayfada gozukmez.
 
 [1]: https://github.com/kaymal
 [2]: https://github.com/
@@ -108,7 +111,8 @@ xxxxxxxxxxxxxx
 
 [Referans 2][2]
 
-xxxxxxxxxxxxxxx
+YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
+YazıYazıYazıYazıYazıYazıYazıYazı.
 
 [1]: https://github.com/kaymal
 [2]: https://github.com/
@@ -155,6 +159,10 @@ asdf asdf adf `kod` asdf asdf.
 asdf asdf adf `kod` asdf asdf.
 
 #### Kod Bloğu
+\```\
+asdf
+
+\```
 
 ```
 asdf
