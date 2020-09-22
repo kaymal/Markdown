@@ -26,13 +26,14 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 ### Başlık
 
 ```
-# Başlık
-## Alt Başlık
+# 1. Başlık
+## 2. Alt Başlık
+### 3. Alt Başlık
 ```
 
-# Başlık
-## Alt Başlık
-
+# 1. Başlık
+## 2. Alt Başlık
+### 3. Alt Başlık
 
 ### Vurgulama
 
