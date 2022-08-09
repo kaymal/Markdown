@@ -16,11 +16,11 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Tablo](#Tablo)
 
-[Resim](#Resim)
-
 [Kod](#Kod)
 
 [Alıntı](#Alıntı)
+
+[Resim](#Resim)
 
 
 ### Başlık
@@ -136,20 +136,6 @@ YazıYazıYazıYazıYazıYazıYazıYazı.
 | C | 1TL     | 1000  |
 
 
-### Resim/Görsel
-```
-Resim: 
-![alt yazı][resim]
-
-[resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png"Resim Başlığı"
-```
-
-
-Resim: 
-![alt yazı][resim]
-
-[resim]: https://www.freeiconspng.com/uploads/github-logo-icon-0.png "Resim Başlığı"
-
 ### Kod
 
 #### Yazı İçinde Kod
@@ -169,6 +155,35 @@ asdf
 asdf
 ```
 
+#### Kod Bloğu (Dil Desteği İle)
+
+Python Örneği:
+
+\```python\
+from datetime import date
+
+print(f'Bugün: {date.today()}')
+
+\```
+
+```python
+from datetime import date
+
+print(f'Bugün: {date.today()}')
+```
+
+Shell Örneği:
+
+\```shell
+
+echo Merhaba
+
+\```
+
+```shell
+echo Merhaba
+```
+
 ### Alıntı
 ```
 > Alıntı 1
@@ -182,3 +197,35 @@ asdf
 >> Alıntı 2
 
 >>> Alıntı 3
+
+
+### Resim/Görsel
+
+#### Aynı Satıra Yazarak
+```
+![alt yazı][resim adresi]
+
+![Photo by Roman Synkevych on Unsplash](./assets/image_unsplash.jpg "GitHub")
+```
+ 
+![Photo by Roman Synkevych on Unsplash](./assets/image_unsplash.jpg)
+
+#### Referans İle
+
+```
+![Photo by Roman Synkevych on Unsplash][resim]
+
+[resim]: ./assets/image_unsplash.jpg "Resim Başlığı"
+```
+ 
+![Photo by Roman Synkevych on Unsplash][resim]
+
+[resim]: ./assets/image_unsplash.jpg "Resim Başlığı"
+
+#### Resimin Boyutunu Değiştirerek (HTML Kullanarak)
+
+```
+<img src="./assets/image_unsplash.jpg" alt="alt yazı" width="320">
+```
+ 
+<img src="./assets/image_unsplash.jpg" alt="Photo by Roman Synkevych on Unsplash" width="320">
