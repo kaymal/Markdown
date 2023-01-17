@@ -22,6 +22,8 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Resim](#Resim)
 
+[Yatay Çizgi](#Yatay-Çizgi)
+
 
 ### Başlık
 
@@ -229,3 +231,20 @@ echo Merhaba
 ```
  
 <img src="./assets/image_unsplash.jpg" alt="Photo by Roman Synkevych on Unsplash" width="320">
+
+
+### Yatay Çizgi
+
+```
+YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
+
+---
+
+YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
+```
+
+YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
+
+---
+
+YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
